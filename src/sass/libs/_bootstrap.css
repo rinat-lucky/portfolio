@@ -11256,3 +11256,7 @@ textarea.form-control-lg {
 }
 
 /*# sourceMappingURL=bootstrap.css.map */
+
+::-webkit-scrollbar {
+  width: 0;
+}
